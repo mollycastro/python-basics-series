@@ -46,3 +46,14 @@ This lesson describes the basics of [lists](https://docs.constellate.org/key-ter
 
 <a href="https://constellate.org/notebook/open/?nb=python-basics-4.ipynb&title=Python%20Basics%204" target="_blank">![A constellate launch button](https://constellate.org/images/constellate-badge.svg)</a>
 
+This lesson describes the basics of writing your own functions including:
+
+* `def` statements
+* [Local scope](https://constellate.org/docs/key-terms/#local-scope)
+* [Global scope](https://constellate.org/docs/key-terms/#global-scope)
+
+This lesson concludes with a description of popular Python packages and directions for installing them in Constellate.
+
+### Notebook Preview
+* [Python Basics 4](https://github.com/ithaka/constellate-python-basics/blob/main/python-basics-4.ipynb)
+
