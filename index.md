@@ -1,6 +1,6 @@
 # Python Basics for Absolute Beginners
 
-## Day 1 (September 6)
+## Day 1 (March 7)
 
 <a href="https://constellate.org/notebook/own/?repo=https%3A%2F%2Fgithub.com%2Fithaka%2Fconstellate-python-basics%2F&urlpath=tree%2Fconstellate-python-basics%2Fgetting-started-with-jupyter.ipynb" target="_blank">![A constellate launch button](https://constellate.org/images/constellate-badge.svg)</a>
 
@@ -10,7 +10,7 @@ This lesson introduces Jupyter notebooks and Python for absolute beginners. If y
 * [Getting Started with Jupyter Notebooks](https://github.com/ithaka/constellate-python-basics/blob/main/getting-started-with-jupyter.ipynb)
 * [Python Basics 1](https://github.com/ithaka/constellate-python-basics/blob/main/python-basics-1.ipynb)
 
-## Day 2 (September 8)
+## Day 2 (March 9)
 
 <a href="https://constellate.org/notebook/own/?repo=https%3A%2F%2Fgithub.com%2Fithaka%2Fconstellate-python-basics%2F&urlpath=tree%2Fconstellate-python-basics%2Fpython-basics-2.ipynb" target="_blank">![A constellate launch button](https://constellate.org/images/constellate-badge.svg)</a>
 
@@ -27,7 +27,7 @@ This lesson describes the basics of [flow control statements](https://docs.const
 ### Notebook Preview
 * [Python Basics 2](https://github.com/ithaka/constellate-python-basics/blob/main/python-basics-2.ipynb)
 
-## Day 3 (September 13)
+## Day 3 (March 14)
 
 <a href="https://constellate.org/notebook/own/?repo=https%3A%2F%2Fgithub.com%2Fithaka%2Fconstellate-python-basics%2F&urlpath=tree%2Fconstellate-python-basics%2Fpython-basics-3.ipynb" target="_blank">![A constellate launch button](https://constellate.org/images/constellate-badge.svg)</a>
 
@@ -44,5 +44,5 @@ This lesson describes the basics of [lists](https://docs.constellate.org/key-ter
 
 **Note:** The Python Basics Series contains two additional notebook templates. See them and many more Constellate lesson templates in [our GitHub repository](https://github.com/ithaka/tdm-notebooks/).
 
-## Day 4 (September 15)
+## Day 4 (March 16)
 We will show how to teach your own form of Python Basics at your institution using GitHub.
