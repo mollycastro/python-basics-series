@@ -44,5 +44,5 @@ This lesson describes the basics of [lists](https://docs.constellate.org/key-ter
 
 ## Day 4 (March 16)
 
-<a href="https://constellate.org/notebook/own/?repo=https%3A%2F%2Fgithub.com%2Fithaka%2Fconstellate-python-basics%2F&urlpath=tree%2Fconstellate-python-basics%2Fpython-basics-4.ipynb" target="_blank">![A constellate launch button](https://constellate.org/images/constellate-badge.svg)</a>
+<a href="https://constellate.org/notebook/open/?nb=python-basics-4.ipynb&title=Python%20Basics%204" target="_blank">![A constellate launch button](https://constellate.org/images/constellate-badge.svg)</a>
 
