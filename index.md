@@ -55,5 +55,5 @@ This lesson describes the basics of writing your own functions including:
 This lesson concludes with a description of popular Python packages and directions for installing them in Constellate.
 
 ### Notebook Preview
-* [Python Basics 4](https://github.com/ithaka/constellate-python-basics/blob/main/python-basics-4.ipynb)
+* [Python Basics 4](https://github.com/mollycastro/python-basics-series/blob/main/python-basics-4.ipynb)
 
