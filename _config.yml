@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
 title: FIU Library Python Basics Workshop Series
-description: This website contains the learning materials for a 4 part workshop on Python Basics. Want to learn more about Constellate and the dataset builder? Check out the recording of our November 2022 [here.](https://libtube.fiu.edu/Player/GgGji33I)
+description: This website contains the learning materials for a 4 part workshop on Python Basics.
 show_downloads: false # shows download links for the repository
 logo: logo.png # can easily be replaced with an institutional logo by uploading a new file
