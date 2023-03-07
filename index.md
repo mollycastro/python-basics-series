@@ -1,5 +1,7 @@
 # Python Basics for Absolute Beginners
 
+Want learn more about [Constellate](https://constellate.org/) and the dataset builder? Check out this recording of our November 2022 workshop [here](https://libtube.fiu.edu/Player/GgGji33I). 
+
 ## Day 1 (March 7)
 
 <a href="https://constellate.org/notebook/own/?repo=https%3A%2F%2Fgithub.com%2Fithaka%2Fconstellate-python-basics%2F&urlpath=tree%2Fconstellate-python-basics%2Fgetting-started-with-jupyter.ipynb" target="_blank">![A constellate launch button](https://constellate.org/images/constellate-badge.svg)</a>
@@ -9,8 +11,6 @@ This lesson introduces Jupyter notebooks and Python for absolute beginners. If y
 ### Notebook Previews
 * [Getting Started with Jupyter Notebooks](https://github.com/ithaka/constellate-python-basics/blob/main/getting-started-with-jupyter.ipynb)
 * [Python Basics 1](https://github.com/ithaka/constellate-python-basics/blob/main/python-basics-1.ipynb)
-
-Want learn more about [Constellate](https://constellate.org/) and the dataset builder? Check out this recording of our November 2022 workshop [here](https://libtube.fiu.edu/Player/GgGji33I). 
 
 ## Day 2 (March 9)
 
